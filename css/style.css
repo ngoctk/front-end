@@ -211,7 +211,7 @@ body {
   padding-left: 26px;
 }
 .list-news {
-  padding: 0px 0px 80px;
+  padding: 0px 0px 78px;
   margin-top: 47px;
   background-image: url(../img/background.png);
 }
@@ -246,7 +246,7 @@ body {
   font-family: "montserrat";
   text-align: center;
   text-transform: uppercase;
-  margin-top: 12px;
+  margin-top: 10px;
 }
 .list-news-item {
   margin: 0 -15px;
@@ -340,7 +340,7 @@ body {
   position: relative;
 }
 .main-content .banner-left .banner-inner {
-  padding-bottom: 75%;
+  padding-bottom: 75.25%;
   position: relative;
 }
 .main-content .banner-left img {
@@ -390,10 +390,10 @@ body {
   width: 100%;
 }
 .main-content .banner-right-item .down {
-  padding-bottom: 92%;
+  padding-bottom: 91.754%;
 }
 .main-content .banner-right-item .up {
-  padding-bottom: 56%;
+  padding-bottom: 55.64%;
 }
 .main-content .banner-right-item-inner {
   position: relative;
